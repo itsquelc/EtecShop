@@ -1,0 +1,4 @@
+dotnet new webapi -f net8.0 -o EtecShopAPI --use-controllers
+
+cd EtecShopAPI
+dotnet watch run 
